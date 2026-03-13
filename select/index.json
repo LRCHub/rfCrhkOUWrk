@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "FIND THE WAY",
+  "base_artist": "中島　美嘉",
+  "createdAt": "2026-03-13T14:58:34.548758Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FIND THE WAY",
+      "artist": "中島 美嘉",
+      "has_synced": true,
+      "path": "select/01_FIND_THE_WAY_中島_美嘉.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FIND THE WAY",
+      "artist": "Mika Nakashima",
+      "has_synced": true,
+      "path": "select/02_FIND_THE_WAY_Mika_Nakashima.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Find the Way (Radio Version)",
+      "artist": "Roger Meno",
+      "has_synced": true,
+      "path": "select/03_I_Find_the_Way_(Radio_Version)_Roger_Meno.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'm Lost, I'll Never Find the Way",
+      "artist": "The Stanley Brothers & The Clinch Mountain Boys",
+      "has_synced": false,
+      "path": "select/04_I'm_Lost,_I'll_Never_Find_the_Way_The_Stanley_Brothers_&_The_Clinch_Mountain_Boys.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lord Help Me Find The Way",
+      "artist": "Julie's Haircut",
+      "has_synced": true,
+      "path": "select/05_Lord_Help_Me_Find_The_Way_Julie's_Haircut.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Find the Way",
+      "artist": "Mika Nakashima",
+      "has_synced": true,
+      "path": "select/06_Find_the_Way_Mika_Nakashima.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "FIND THE WAY",
+      "artist": "中島美嘉",
+      "has_synced": true,
+      "path": "select/07_FIND_THE_WAY_中島美嘉.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Find the Way",
+      "artist": "The Impressions",
+      "has_synced": false,
+      "path": "select/08_Find_the_Way_The_Impressions.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Find the Way",
+      "artist": "Roger Meno",
+      "has_synced": true,
+      "path": "select/09_I_Find_the_Way_Roger_Meno.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "FIND THE WAY",
+      "artist": "中島美嘉",
+      "has_synced": true,
+      "path": "select/10_FIND_THE_WAY_中島美嘉.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "FInd The Way",
+      "artist": "Eric Roberson",
+      "has_synced": true,
+      "path": "select/11_FInd_The_Way_Eric_Roberson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Can't Find The Way",
+      "artist": "Mary Gauthier",
+      "has_synced": false,
+      "path": "select/12_Can't_Find_The_Way_Mary_Gauthier.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "FIND THE WAY",
+      "artist": "Mika Nakashima",
+      "has_synced": true,
+      "path": "select/13_FIND_THE_WAY_Mika_Nakashima.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "FIND THE WAY",
+      "artist": "中島美嘉",
+      "has_synced": true,
+      "path": "select/14_FIND_THE_WAY_中島美嘉.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FIND THE WAY",
+      "artist": "中島 美嘉",
+      "has_synced": false,
+      "path": "select/pl_01_FIND_THE_WAY_中島_美嘉.txt"
+    }
+  ]
+}
